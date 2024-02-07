@@ -1,4 +1,5 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13709523)
+
 # Use this repository to do lab exercises based on the textbook "Outside-In React Development"
 
 ## Important: Cypress doesn't run on Codespaces, so you will need to install this repo on your local machine in order to do exercises that involve Cypress.
@@ -13,6 +14,7 @@ If you have a different node version on your local machine, install `nvm` as fol
 # Install NVM (Node Version Manager)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+
 Then install Node v.16 and set it as default:
 
 ```
@@ -22,10 +24,10 @@ nvm use default
 ```
 
 Check what version you have:
+
 ```
 node -v
 ```
-
 
 # Getting Started with Create React App
 
@@ -33,7 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the directory, you can run:
 
 ### `yarn start`
 
