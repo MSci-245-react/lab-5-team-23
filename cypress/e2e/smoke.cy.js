@@ -1,6 +1,6 @@
 describe('empty spec', () => {
   it('can view the home page', () => {
-    cy.visit('/');
+    cy.visit('http://localhost:3000');
     cy.contains('Learn React');
   });
 });
